@@ -80,7 +80,8 @@
     }
     /*Set margin bottom*/
     .navbar {
-        margin-bottom: 0px;
+    
+        margin-bottom: 30px;
     }
     /*Logo Image */
     .navbar-brand-logo {

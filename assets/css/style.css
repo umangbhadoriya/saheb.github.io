@@ -330,24 +330,18 @@
     /*=====================================
      VEDIO SECTION  STYLE 
         ===================================*/
-        .video-container {
-            overflow: hidden;
-            position: relative;
-            width:100%;
+        #vedio-sec {
+            padding-bottom: 80px;
+            padding-top: 50px;
         }
         
-        .video-container::after {
-            padding-top: 56.25%;
-            display: block;
-            content: '';
-        }
+    
         
-        .video-container iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
+        .vedio-style {
+            border: 0px;
             width: 100%;
-            height: 100%;
+            min-height: 300px;
+            margin-top: 20px;
         }
     /*=====================================
       REVIEW STYLES 
